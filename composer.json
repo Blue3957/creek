@@ -1,0 +1,14 @@
+{
+  "name": "blue3957/creek",
+  "description": "A fluent way to manipulate arrays",
+  "homepage": "https://github.com/blue3957/creek",
+  "license": "GPL-3.0",
+  "autoload": {
+    "psr-4": {
+      "Bluedel\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
